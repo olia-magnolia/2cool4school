@@ -1,0 +1,38 @@
+.ico img {
+    margin: 0 auto;
+    width: 130px;
+    height: 130px;
+    border-radius: 100%;
+}
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+}
+nav a {
+    margin: 0 10px;
+}
+a, a img {
+    cursor: help;
+}
+a {
+    color: #cccccc;
+    text-decoration: none;
+}
+img {
+    opacity: 1;
+    border: none;
+    text-decoration: none;}
+header {
+    width: 500px;
+    margin: 0 auto 0 auto;
+	margin-top: 200px;
+    text-align: center;
+position: relative;
+}
+div {padding: 0;
+}
